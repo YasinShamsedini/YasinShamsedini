@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! I'm Yasin Shamsedini 
 
-<!--
-**YasinShamsedini/YasinShamsedini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+- 🎓 Business Administration student at Shiraz University  
+- 👨‍💻 Passionate about AI-driven web and app development  
+- 🔥 1.5 years of hands-on experience in Python, HTML, CSS, and JavaScript  
+- 🤖 Specializing in leveraging AI for complex projects  
+- 🚀 Always seeking the strongest collaborations with AI to revolutionize web and app design  
+- 🌍 Aspiring to integrate AI into web and app development to push the boundaries of innovation  
 
-Here are some ideas to get you started:
+## 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/yasin-shamsedini-119a28323/)  
+- [Email](mailto:yasin.shamsedini@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasinShamsedini&show_icons=true&theme=radical)
