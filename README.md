@@ -1,4 +1,4 @@
-# Hi there! I'm Yasin Shamsedini 
+# Hey there! I'm Yasin Shamsedini 
 
 ## About Me:
 - 🎓 Business Administration student at Shiraz University  
