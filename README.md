@@ -4,7 +4,7 @@ Business Administration student with an interest in **data analysis, applied sta
 
 I use this space to document selected **academic and independent projects**, with a focus on applying data and quantitative methods to real-world questions in business, finance, and economics.
 
----
+<br>
 
 ## Academic Interests
 
@@ -31,7 +31,8 @@ I am interested in applying quantitative and computational methods to problems i
 
 My repositories include projects where I apply the methods and concepts I am learning to **real datasets and practical research questions**. Each project reflects an attempt to move beyond theoretical learning and examine how data, statistical methods, and machine learning can be used to understand real-world problems.
 
-Feel free to explore the repositories below😊
+Feel free to explore the repos😊
+
 
 ## Contact
 
