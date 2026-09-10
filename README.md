@@ -29,7 +29,7 @@ I am interested in applying quantitative and computational methods to problems i
 
 ## Projects
 
-My repositories include projects where I apply the methods and concepts I am learning to **real datasets and practical research questions**. Each project reflects an attempt to move beyond theoretical learning and examine how data, statistical methods, and machine learning can be used to understand real-world problems.
+The repositories include projects where I apply the methods and concepts I am learning to real datasets and practical research questions. Rather than presenting only the final results, I try to document the main stages of each project, from data preparation and exploratory analysis to model development, evaluation, and interpretation. Each project has its own README describing the research question or objective, dataset, methodology, key steps, results, and the tools used. Where relevant, the repositories also include the underlying datasets, Python code, visualizations, and other supporting materials allowing the work to be examined in greater detail.
 
 Feel free to explore the repos😊
 
